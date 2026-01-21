@@ -30,3 +30,6 @@ This document describes the software development liufe cycle used in developing 
 # Iyanda Oluwatomi Emmanuel
 # Computer Science
 # 24/14116
+
+# link to the repository on github
+https://github.com/iyanda-tomi04/SEN-PROJECT-AND-ASSIGNMENT.git
