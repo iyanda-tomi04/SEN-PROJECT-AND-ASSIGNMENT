@@ -2,7 +2,7 @@
 # Food-it console app
 This project is a simple console-based food ordering system development using python. it allows users to view a food menu, place orders, select quantities, and receive a total bill through the command line
 # Features
-- Displayfood menu
+- Display food menu
 - Order multiple food items
 - Input item quantities
 - Calculate total cost
@@ -15,10 +15,10 @@ This project is a simple console-based food ordering system development using py
 4. Run the program
 
 # Python code that displays hello world in the console when run
-This is a file that displayes hello world when it is run in the console
+This is a file that displays hello world when it is run in the console
 
-# SDLC for  the project
-This document describes the software development liufe cycle used in developing a console-based food ordering app using python
+# SDLC for the project
+This document describes the software development life cycle used in developing a console-based food ordering app using python
 # The SDLC stages
 - Requirement Analysis
 - System Design
