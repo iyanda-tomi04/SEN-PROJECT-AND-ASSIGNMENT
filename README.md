@@ -1,6 +1,6 @@
 # SEN 201 ASSIGNMENT
 # Food-it console app
-This project is a simpla console-based food ordering system development using python. it allows users to view a food menu, place orders, select quantities, and receive a total bill through the command line
+This project is a simple console-based food ordering system development using python. it allows users to view a food menu, place orders, select quantities, and receive a total bill through the command line
 # Features
 - Displayfood menu
 - Order multiple food items
